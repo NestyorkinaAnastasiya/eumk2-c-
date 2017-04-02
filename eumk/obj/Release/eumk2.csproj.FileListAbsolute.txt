@@ -1,0 +1,6 @@
+C:\Users\Анастасия\Documents\Visual Studio 2015\Projects\eumk2(c#)\eumk\bin\Release\eumk.exe.config
+C:\Users\Анастасия\Documents\Visual Studio 2015\Projects\eumk2(c#)\eumk\bin\Release\eumk.exe
+C:\Users\Анастасия\Documents\Visual Studio 2015\Projects\eumk2(c#)\eumk\bin\Release\eumk.pdb
+C:\Users\Анастасия\Documents\Visual Studio 2015\Projects\eumk2(c#)\eumk\obj\Release\eumk.exe
+C:\Users\Анастасия\Documents\Visual Studio 2015\Projects\eumk2(c#)\eumk\obj\Release\eumk.pdb
+C:\Users\Анастасия\Documents\Visual Studio 2015\Projects\eumk2(c#)\eumk\obj\Release\eumk2.csprojResolveAssemblyReference.cache
